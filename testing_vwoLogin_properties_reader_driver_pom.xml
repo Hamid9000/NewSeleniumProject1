@@ -3,8 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/hamid/IdeaProjects/NewSeleniumProject">
         <classes>
-            <class name="com.Thetestingaccademy.SampleTest">
-            </class>
+            <class name="com.thetestingacademy.vwoTestCases.improved_pom.LoginPage"/>
         </classes>
     </test>
 </suite>
